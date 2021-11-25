@@ -56,7 +56,6 @@ export class LaravelMixNotifier {
   }
 
   public webpackPlugins() {
-    console.log(this.config)
     const version = this.config.showVersion
       ? this.config.version
         ? `[${this.config.version}] `
