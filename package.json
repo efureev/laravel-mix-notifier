@@ -1,6 +1,6 @@
 {
   "name": "@feugene/laravel-mix-notifier",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Custom Notifications for Laravel Mix",
   "main": "build/index.js",
   "repository": {
