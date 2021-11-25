@@ -11,7 +11,7 @@ The package uses webpack-plugin `webpack-notifier`
 ## Install
 
 ```bash
-npm install laravel-mix-notifier --save-dev
+npm install @feugene/laravel-mix-notifier --save-dev
 ```
 
 ## Usage
