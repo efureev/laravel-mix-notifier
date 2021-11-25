@@ -1,0 +1,36 @@
+{
+  "name": "laravel-mix-notifier",
+  "version": "1.0.0",
+  "description": "Custom Notifications for Laravel Mix",
+  "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Elhebert/laravel-mix-sri"
+  },
+  "scripts": {
+    "lint": "prettier --write '**/*.ts'",
+    "build": "tsc --project ./tsconfig.json"
+  },
+  "homepage": "https://github.com/efureev/laravel-mix-notifier",
+  "keywords": [
+    "notify",
+    "mix",
+    "laravel-mix-notifier"
+  ],
+  "author": "Eugene Fureev",
+  "license": "MIT",
+  "peerDependencies": {
+    "laravel-mix": "^6.0.39"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.39",
+    "prettier": "^2.5.0",
+    "typescript": "^4.5.2"
+  },
+  "files": [
+    "build/index.js"
+  ]
+}
