@@ -1,6 +1,6 @@
 # Custom Notifications for Laravel Mix
 
-![npm](https://img.shields.io/npm/v/laravel-mix-notifier?style=flat-square)
+![npm](https://img.shields.io/npm/v/@feugene/laravel-mix-notifier?style=flat-square)
 ![img](./assets/img1.png)
 
 
